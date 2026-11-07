@@ -21,3 +21,20 @@ Clone the repository and install dependencies:
 git clone https://github.com/mkarimkhani/topological-mammography-tri-shell.git
 cd topological-mammography-tri-shell
 pip install -r requirements.txt
+
+Citation
+If you use this code in your research, please cite our corresponding paper:
+
+
+content_copy
+bibtex
+@software{karimkhani2026trishell,
+  author       = {Karimkhani, Mohsen},
+  title        = {Concentric Tri-Shell Topological Latent Modulation for Calibrated Mammographic Mass Triage},
+  month        = nov,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.23964083},
+  url          = {https://doi.org/10.5281/zenodo.23964083}
+}
