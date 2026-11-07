@@ -23,6 +23,7 @@ cd topological-mammography-tri-shell
 pip install -r requirements.txt
 
 ## Citation
+If you use this code in your research, please cite our corresponding paper:
 @software{karimkhani2026trishell,
   author       = {Karimkhani, Mohsen},
   title        = {Concentric Tri-Shell Topological Latent Modulation for Calibrated Mammographic Mass Triage},
