@@ -3,9 +3,10 @@ message: "If you use this codebase, please cite our corresponding manuscript."
 authors:
   - family-names: Karimkhani
     given-names: Mohsen
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0009-0002-3454-4375"
 title: "Concentric Tri-Shell Topological Latent Modulation for Calibrated Mammographic Mass Triage"
 version: 1.0.0
 date-released: 2026-11-03
 url: "https://github.com/mkarimkhani/topological-mammography-tri-shell"
 doi: 10.5281/zenodo.23964083
+
