@@ -18,9 +18,9 @@ This repository contains the authoritative codebase for our Q1 journal study on 
 ## Installation
 Clone the repository and install dependencies:
 
-git clone https://github.com/mkarimkhani/topological-mammography-tri-shell.git
-cd topological-mammography-tri-shell
-pip install -r requirements.txt
+- git clone https://github.com/mkarimkhani/topological-mammography-tri-shell.git
+- cd topological-mammography-tri-shell
+- pip install -r requirements.txt
 
 ## Citation
 If you use this code in your research, please cite our corresponding paper:
