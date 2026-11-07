@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ```
 ## Citation
-If you use this code in your research, please cite our corresponding paper:
+If you use this software in your research, please cite this Zenodo archive:
 
 ```bibtex
 @software{karimkhani2026trishell,
